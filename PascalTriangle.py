@@ -12,3 +12,13 @@ for i in range(n):
     for j in range(0,i+1):
         print('{0:6}'.format(a[i][j]),end=" ",sep=" ")
     print()
+
+""" output:-
+
+Case 1:	
+Enter number of rows: 3
+               1 
+            1      1 
+         1      2      1
+
+"""
