@@ -9,3 +9,17 @@ for i in range(n // 2, 0, -1):
     spaces = " " * (n // 2 + 1 - i)
     stars = "*" * (2 * i - 1)
     print(spaces + stars)
+"""
+output:-
+
+Enter the number of rows (must be odd): 7
+   *
+  ***
+ *****
+*******
+ *****
+  ***
+   *
+
+
+"""
