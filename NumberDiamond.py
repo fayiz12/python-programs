@@ -23,3 +23,14 @@ def print_number_diamond(n):
 if __name__ == "__main__":
     n = int(input("Enter the number of rows for the diamond pattern: "))
     print_number_diamond(n)
+"""
+output:-
+Enter the number of rows for the diamond pattern: 5
+  1  
+ 121 
+12321
+ 121 
+  1  
+
+
+"""
