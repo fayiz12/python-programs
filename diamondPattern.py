@@ -12,6 +12,8 @@ for i in range(n // 2, 0, -1):
 """
 output:-
 
+this is the output of the program above
+
 Enter the number of rows (must be odd): 7
    *
   ***
