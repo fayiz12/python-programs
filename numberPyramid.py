@@ -13,7 +13,7 @@ def print_number_pyramid(n):
         for j in range(i - 1, 0, -1):
             print(j, end=" ")
         
-        # Move to the next line for the next 
+        # Move to the next line for the next row
         print()
 
 try:
