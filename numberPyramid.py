@@ -1,7 +1,7 @@
 
 def print_number_pyramid(n):
     for i in range(1, n + 1):
-        # Print spaces before the number
+        # Print spaces before the numbers
         for j in range(n - i):
             print(" ", end=" ")
         
