@@ -8,7 +8,7 @@ def print_inverse_number_pyramid(n):
         for j in range(i, 0, -1):
             print(j, end=" ")
 
-        # Move to the next line for the next row
+        # Move to the next line for the next 
         print()
 
 try:
