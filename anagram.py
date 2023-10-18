@@ -1,4 +1,4 @@
-""" Write a program to check if two strings are anagrams of each other. """
+""" Write a program to check if two strings are anagrams of each other """
 
 
 def are_anagrams(str1, str2):
